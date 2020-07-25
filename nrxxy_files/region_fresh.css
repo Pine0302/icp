@@ -1,0 +1,41 @@
+.fl{float:left}
+.sub-tag dl{line-height:28px}
+.sub-tag dt{float:left;color:#666}
+.sub-tag dd{margin-left:48px}
+.sub-tag dd ul{overflow:hidden;zoom:1}
+.sub-tag a{display:inline-block}
+.seljobMore{padding-top:4px;margin-left:12px;}
+.selInfo{height:22px;padding-top:7px;padding-bottom:5px}
+.selInfo span{cursor:pointer}
+.selmore{margin-right:8px;display:inline;z-index:10;position:relative}
+.itemInfo{width:98px;float:left;border:1px solid #cdcfd1;border-bottom-color:#abadb2;border-left:none;background:#fff;position:relative;z-index:20}
+.itemInfo .itemT{display:block;padding-left:8px;height:20px;line-height:20px;color:#666;cursor:pointer}
+.itemInfo b{background: url(../../images/2014/down.jpg) center center no-repeat}
+.itemInfo b{width:7px;height:4px;overflow:hidden;display:inline-block;position:absolute;top:8px;right:7px}
+.itemInfo ul{width:98px;padding-top:3px;position:absolute;top:20px;left:-1px;background:#fff;border:1px solid #cdcfd1;border-top:none;display:none;overflow:hidden;zoom:1}
+.itemInfo ul li{line-height:24px;height:24px}
+.itemInfo ul li a{color:#585858;display:block;zoom:1}
+.sala_item{width:125px;}
+.sala_item ul{width:125px}
+.sala_item span{overflow: hidden;text-overflow: ellipsis;white-space: nowrap;width: 100px;display: inline-block;}
+.hire_item .itemT span{display:inline-block;width:75px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.setbox{width:836px;position:absolute;top:35px;left:-2px;background:#fff;border:1px solid #979797}
+.setbox{width:500px;top:20px;left:-1px;z-index:99;border-color:#cdcfd1}
+.setbox em{width:98px;height:1px;background:#fff;position:absolute;top:-1px;left:0}
+.hire_item .indcatelist{width:475px;padding:8px 0 8px 25px;top:0;overflow:hidden;zoom:1;display:block}
+.hire_item .indcatelist li{width:156px;height:28px;float:left;line-height:28px;white-space:nowrap}
+.hire_item .indcatelist a{display:inline}
+.hire_item .indcatelist a:hover{color:#F77D40}
+.edover{background:#f5f5f5 url(../../images/2014/sel_icon.png) 79px 9px no-repeat}
+.edover{background-position:82px 9px}
+.sala_item .edover{background-position:100px 9px}
+.edu_item li a, .sala_item li a, .price_item li a {padding-left: 13px !important;}
+/*学历*/
+.edu_item .edover{background-position:55px 9px}
+.edu_item{width:78px;}
+.edu_item ul{width:78px;}
+/*价格*/
+.price_item .edover{background-position:108px 9px}
+.price_item{width:130px;}
+.price_item ul{width:130px;}
+.salalist .list-b {margin-left: 0px;}

@@ -1,0 +1,35 @@
+.mh-list {font-family: Tahoma,arial,'宋体';}
+.list-c, .choose1 {color: #fff !important;background:url(../../images/2014/bg_btn.png) no-repeat 50% 82% !important;
+}
+.mh-list span{font-size: 12px !important;color: #000 !important;}
+.list-z{width: 930px !important;}
+
+.m-head {overflow:visible;}
+.mh-i{float: inherit !important}
+.list-z .list-b{margin-left: 11px;color: #000 !important;}
+.list-b:hover {color: #ff0000 !important;}
+.sub-tag {font-size: 12px;font-family: Tahoma,arial,"宋体";}
+.sub-tag dt{color: #000;}
+.itemInfo .itemT{color: #000;}
+.selInfo .list-b:hover{color: #ff0000 !important;}
+.choose1 {color: #fff !important;background:url(../../images/2014/bg_btn.png) no-repeat 50% 82% !important;}
+
+.house_listcenter .house_search a:hover {color:#f74304;background-color:#fff;text-decoration:none;}
+.house_listcenter .house_search dt{margin-left:12px;}
+
+.house_listcenter .house_search span,.house_listcenter .house_search dl, .sub-tag dt, .sub-tag a {font-family: Tahoma,arial,"宋体" !important;}
+.house_listcenter .house_search{background: none;padding: 5px 0px !important}
+.mh-list a{margin-left:5px;margin-right:2px !important;}
+.list-zz {width:910px;float:left;}
+.list-c {color:#1787eb;}
+.list-b:hover{color: #f74304 !important;}
+.house_search .choose1:hover{color: #fff !important;
+	background:url(../../images/2014/bg_btn.png) no-repeat 50% 82% !important;
+}
+.house_search{overflow:visible !important}
+.house_search a:hover{background: none !important;}
+.house_search a,.house span, .house dl{font-size:12px !important;color:black;}
+
+.house_search a {display: inline !important;white-space: normal !important;}
+.page a{color: #000;text-decoration: none;}
+.m-a ul{margin-top:16px;}

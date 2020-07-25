@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="15f2a46d-9bf7-44ee-a31d-0cc038aea56b" name="www.17wdxls.com">
+        <fileTransfer rootFolder="/data/docker-projects/icp/ydb/app-root/src" accessType="SFTP" host="118.31.72.207" port="22" sshConfigId="8d9c3996-e636-4360-bf71-a184a1118787" sshConfig="root@118.31.72.207:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
